@@ -6,6 +6,7 @@ this one is pretty straightforward, just run it.
 the [song](https://www.youtube.com/watch?v=XQk-pLZYsLA) i listened to while making it
 
 here's a bunny
+```
                       /|      __
 *             +      / |   ,-~ /             +
      .              Y :|  //  /                .         *
@@ -23,3 +24,4 @@ here's a bunny
                ]\      _\    /"\
               (" ~----( ~   Y.  )
           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
